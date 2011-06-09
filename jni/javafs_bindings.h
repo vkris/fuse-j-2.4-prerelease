@@ -495,7 +495,7 @@ typedef struct _jclass_java_nio_ByteBuffer
       jmethodID putDouble__D;
       jmethodID isDirect;
       jmethodID hasArray;
-      jmethodID array;
+      //jmethodID array;
       jmethodID array;
       jmethodID arrayOffset;
       jmethodID duplicate;
